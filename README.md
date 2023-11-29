@@ -10,14 +10,15 @@ The Knowledge Summarizer GPT is a specialized tool designed to efficiently summa
 - **Continuity Support**: Remembers the last processed position in a file, allowing for seamless continuation in large documents.
 - **User-Friendly Interface**: Easy-to-use prompts and clear instructions for uploading and processing files.
 - **Accuracy and Efficiency**: Ensures precise summarization with key information highlighted for quick GPT access.
+- **Recommended GPT Instructions**: TODO.
 
 ## Getting Started
 ### Prerequisites
 - Ensure you have a JSON knowledge file formatted as per the Knowledge Summarizer's [**requirements**](##file-formatting-guidelines).
 - Access to ChatGPT Plus
 
-## Link to the GPT
-[Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer)
+### Link to the GPT
+- Follow this link on ChatGPT for access to the GPT: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer)
 
 ### Manual Installation (TODO)
 1. In the future the instructions will be added to this repository so we can all improve upon them.
