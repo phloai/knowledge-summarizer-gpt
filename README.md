@@ -1,19 +1,18 @@
 # Knowledge Summarizer GPT
-  
-## Introduction
-The Knowledge Summarizer GPT is a specialized tool designed to efficiently summarize user-provided knowledge files into a structured Table of Contents (ToC). This ToC is formatted specifically to enhance a custom GPT's ability to navigate and utilize large volumes of data effectively.
+
+A tool designed to efficiently summarize user-provided knowledge files into a structured Table of Contents (ToC). This ToC is formatted specifically to enhance your custom GPT's ability to navigate and utilize large volumes of data effectively. With a ToC, you can adjust your GPT's instruction to process the entire ToC. Empowering your GPT to understand which knowledge files and which lines inside the knowledge files it should scroll to, gaining more context of the important regions of your knowledge files to more accurately respond to your queries.
 
 ## Link to the GPT
 - ChatGPT access link: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer) 
 
 ## Features
-- **Automated Summarization**: Processes uploaded knowledge files and generates a comprehensive Table of Contents.
-- **Customized Formatting**: Generates ToCs in a JSON format tailored to improve GPT navigation.
-- **Chunk Processing**: Capable of handling large files by summarizing them in smaller, manageable sections.
-- **Continuity Support**: Remembers the last processed position in a file, allowing for seamless continuation in large documents.
-- **User-Friendly Interface**: Easy-to-use prompts and clear instructions for uploading and processing files.
-- **Accuracy and Efficiency**: Ensures precise summarization with key information highlighted for quick GPT access.
-- **Recommended GPT Instructions**: TODO.
+- **Automated Summarization:** Processes uploaded knowledge files and generates a comprehensive Table of Contents.
+- **Customized Formatting:** Generates ToCs in a JSON format tailored to improve GPT navigation.
+- **Chunk Processing:** Capable of handling large files by summarizing them in smaller, manageable sections.
+- **Continuity Support:** Remembers the last processed position in a file, allowing for seamless continuation in large documents.
+- **User-Friendly Interface:** Easy-to-use prompts and clear instructions for uploading and processing files.
+- **Accuracy and Efficiency:** Ensures precise summarization with key information highlighted for quick GPT access.
+- [**Recommended GPT Instructions:**](#recommended-gpt-instructions) TODO.
 
 ## Getting Started
 ### Prerequisites
@@ -59,6 +58,9 @@ The output will be a JSON-formatted Table of Contents with the following fields 
 	}
 ]
 ```
+
+## Recommended GPT Instructions
+TODO
 
 ## Contributing
 Contributions are welcome! To contribute:
