@@ -1,5 +1,8 @@
 # Knowledge Summarizer GPT
 
+## Link to the GPT
+- Click on ChatGPT access link: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer) 
+  
 ## Introduction
 The Knowledge Summarizer GPT is a specialized tool designed to efficiently summarize user-provided knowledge files into a structured Table of Contents (ToC). This ToC is formatted specifically to enhance a custom GPT's ability to navigate and utilize large volumes of data effectively.
 
@@ -16,9 +19,6 @@ The Knowledge Summarizer GPT is a specialized tool designed to efficiently summa
 ### Prerequisites
 - Ensure you have a JSON knowledge file formatted as per the Knowledge Summarizer's [**requirements**](##file-formatting-guidelines).
 - Access to ChatGPT Plus
-
-### Link to the GPT
-- ChatGPT access link: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer)
 
 ### Manual Installation (TODO)
 1. In the future the instructions will be added to this repository so we can all improve upon them.
@@ -60,11 +60,17 @@ The output will be a JSON-formatted Table of Contents with the following fields 
 ]
 ```
 
+## Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Create a new Pull Request.
+
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Acknowledgments
 This project uses instructions inspired by concepts from the [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert).
-
-## Support
-For support, please open an issue in the repository.
