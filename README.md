@@ -2,7 +2,7 @@
 
 A tool designed to efficiently summarize user-provided knowledge files into a structured Table of Contents (ToC). This ToC is formatted specifically to enhance your custom GPT's ability to navigate and utilize large volumes of data effectively. 
 
-## Why do you need a Table of Contents?
+### Why do you need a Table of Contents?
 Custom GPT's have difficulty navigating many and large knowledge files. This, I learned, is because it actively scrolls through these files using `myfiles_browser`. Which means it finds keywords and looks over only a small portion of the file. 
 
 With a Table of Contents, you can adjust your GPT's instruction to process the entire ToC. Empowering your GPT to understand which knowledge files and which lines inside the knowledge files it should scroll to, gaining more context of the important regions of your knowledge files to more accurately respond to your queries.
