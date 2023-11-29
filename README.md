@@ -18,7 +18,7 @@ The Knowledge Summarizer GPT is a specialized tool designed to efficiently summa
 - Access to ChatGPT Plus
 
 ### Link to the GPT
-- Follow this link on ChatGPT for access to the GPT: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer)
+- ChatGPT access link: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer)
 
 ### Manual Installation (TODO)
 1. In the future the instructions will be added to this repository so we can all improve upon them.
