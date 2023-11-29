@@ -1,10 +1,10 @@
 # Knowledge Summarizer GPT
-
-## Link to the GPT
-- Click on ChatGPT access link: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer) 
   
 ## Introduction
 The Knowledge Summarizer GPT is a specialized tool designed to efficiently summarize user-provided knowledge files into a structured Table of Contents (ToC). This ToC is formatted specifically to enhance a custom GPT's ability to navigate and utilize large volumes of data effectively.
+
+## Link to the GPT
+- Click on ChatGPT access link: [Knowledge Summarizer GPT](https://chat.openai.com/g/g-McHIHioC4-knowledge-summarizer) 
 
 ## Features
 - **Automated Summarization**: Processes uploaded knowledge files and generates a comprehensive Table of Contents.
