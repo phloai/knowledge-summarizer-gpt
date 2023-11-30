@@ -18,6 +18,7 @@ With a Table of Contents, you can adjust your GPT's instruction to process the e
 - **User-Friendly Interface:** Easy-to-use prompts and clear instructions for uploading and processing files.
 - **Accuracy and Efficiency:** Ensures precise summarization with key information highlighted for quick GPT access.
 - **Recommended GPT Instructions:** For recommended instructions to work with the ToC, refer to the [instructions-template.md](https://github.com/phloai/knowledge-summarizer-gpt/instructions-template.md). Fill in the areas enclosed in brackets.
+- **Sample GPT:** For a sample GPT that uses the recommended instructions and the ToC, look at our [Mojo Teacher GPT GitHub](https://github.com/phloai/mojo-teacher-gpt). It contains the link to the GPT instructions and knowledge files used to create it.
 
 ## Getting Started
 ### Prerequisites
