@@ -17,7 +17,7 @@ With a Table of Contents, you can adjust your GPT's instruction to process the e
 - **Continuity Support:** Remembers the last processed position in a file, allowing for seamless continuation in large documents.
 - **User-Friendly Interface:** Easy-to-use prompts and clear instructions for uploading and processing files.
 - **Accuracy and Efficiency:** Ensures precise summarization with key information highlighted for quick GPT access.
-- [**Recommended GPT Instructions:**](#recommended-gpt-instructions) TODO.
+- **Recommended GPT Instructions:** For recommended instructions to work with the ToC, refer to the [instructions-template.md](https://github.com/phloai/knowledge-summarizer-gpt/instructions-template.md). Fill in the areas enclosed in brackets.
 
 ## Getting Started
 ### Prerequisites
@@ -63,9 +63,6 @@ The output will be a JSON-formatted Table of Contents with the following fields 
 	}
 ]
 ```
-
-## Recommended GPT Instructions
-TODO
 
 ## Contributing
 Contributions are welcome! To contribute:
