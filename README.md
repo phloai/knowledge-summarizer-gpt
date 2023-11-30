@@ -66,7 +66,7 @@ The output will be a JSON-formatted Table of Contents with the following fields 
 ```
 
 ## Recommended GPT Instructions
-After uploading all of your knowledge files, including your Table of Contents, it is recommended to copy the [instruction-template.md](https://github.com/phloai/knowledge-summarizer-gpt/instructions-template.md) into your custom GPT instructions. You should fill in the areas in brackets, with the specified information unique to your assistant. I found this format for the GPT instructions to work best with the outputted knowledge files from this script and [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler). If you find a better template, please contribute and submit a pull request so we can all benefit from your improved instructions!
+After uploading all of your knowledge files, including your Table of Contents, it is recommended to copy the [instruction-template.md](https://github.com/phloai/knowledge-summarizer-gpt/blob/main/instructions-template.md) into your custom GPT instructions. You should fill in the areas in brackets, with the specified information unique to your assistant. I found this format for the GPT instructions to work best with the outputted knowledge files from this script and [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler). If you find a better template, please contribute and submit a pull request so we can all benefit from your improved instructions!
 
 ## Contributing
 Contributions are welcome! To contribute:
