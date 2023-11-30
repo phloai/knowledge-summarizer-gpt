@@ -17,7 +17,7 @@ With a Table of Contents, you can adjust your GPT's instruction to process the e
 - **Continuity Support:** Remembers the last processed position in a file, allowing for seamless continuation in large documents.
 - **User-Friendly Interface:** Easy-to-use prompts and clear instructions for uploading and processing files.
 - **Accuracy and Efficiency:** Ensures precise summarization with key information highlighted for quick GPT access.
-- **Recommended GPT Instructions:** For recommended instructions to work with the ToC, refer to the [instructions-template.md](https://github.com/phloai/knowledge-summarizer-gpt/instructions-template.md). Fill in the areas enclosed in brackets.
+- [**Recommended GPT Instructions:**](#recommended-gpt-instructions) A recommended format for GPT instructions, that can be copied and filled to properly look up and search through uploaded knowledge files outputted by this script and [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler).
 - **Sample GPT:** For a sample GPT that uses the recommended instructions and the ToC, look at our [Mojo Teacher GPT GitHub](https://github.com/phloai/mojo-teacher-gpt). It contains the link to the GPT instructions and knowledge files used to create it.
 
 ## Getting Started
@@ -64,6 +64,9 @@ The output will be a JSON-formatted Table of Contents with the following fields 
 	}
 ]
 ```
+
+## Recommended GPT Instructions
+After uploading all of your knowledge files, including your Table of Contents, it is recommended to copy the [instruction-template.md](https://github.com/phloai/knowledge-summarizer-gpt/instructions-template.md) into your custom GPT instructions. You should fill in the areas in brackets, with the specified information unique to your assistant. I found this format for the GPT instructions to work best with the outputted knowledge files from this script and [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler). If you find a better template, please contribute and submit a pull request so we can all benefit from your improved instructions!
 
 ## Contributing
 Contributions are welcome! To contribute:
