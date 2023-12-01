@@ -12,7 +12,7 @@ With a Table of Contents, you can adjust your GPT's instruction to process the e
 
 ## Features
 - **Automated Summarization:** Processes uploaded knowledge files and generates a comprehensive Table of Contents.
-- **Customized Formatting:** Generates ToCs in a JSON format tailored to improve GPT navigation.
+- [**Customized Formatting:**](#output-format) Generates ToCs in a JSON format tailored to improve GPT navigation.
 - **Chunk Processing:** Capable of handling large files by summarizing them in smaller, manageable sections.
 - **Continuity Support:** Remembers the last processed position in a file, allowing for seamless continuation in large documents.
 - **User-Friendly Interface:** Easy-to-use prompts and clear instructions for uploading and processing files.
